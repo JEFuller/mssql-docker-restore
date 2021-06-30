@@ -1,4 +1,4 @@
-Do what's show [here](https://docs.microsoft.com/en-us/sql/linux/tutorial-restore-backup-in-sql-server-container?view=sql-server-ver15#restore-the-database) but with PowerShell.
+Do what's shown [here](https://docs.microsoft.com/en-us/sql/linux/tutorial-restore-backup-in-sql-server-container?view=sql-server-ver15#restore-the-database) but with PowerShell.
 
 Restores to a DB called `main` (and drops it first).
 
